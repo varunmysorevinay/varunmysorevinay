@@ -26,7 +26,7 @@ Most recently that has meant rebuilding a remanufacturing line from scratch at H
 | **73% efficiency improvement** | Dynatech Tools | VSM, time-motion studies, NVA elimination via DMAIC, SMED, JIT |
 | **15% average project cost saving** | SR Enterprises | Workflow planning and risk mitigation on special-purpose machine builds |
 
-📄 **[Full case studies and portfolio site →](https://varunmysorevinay-pixel.github.io)**
+📄 **[Full case studies and portfolio site →](https://varunmysorevinay.github.io)**
 
 ---
 
@@ -34,16 +34,16 @@ Most recently that has meant rebuilding a remanufacturing line from scratch at H
 
 Working Python implementations of the analyses I run on the floor. All four are standard-library only — no install step, clone and run — with sample datasets and unit tests.
 
-### 📊 [Line Balancing Toolkit](https://github.com/varunmysorevinay-pixel/line-balancing-toolkit)
+### 📊 [Line Balancing Toolkit](https://github.com/varunmysorevinay/line-balancing-toolkit)
 Assigns precedence-constrained tasks to stations by Ranked Positional Weight, then reports takt, balance efficiency, smoothness index, and the bottleneck. Rejects precedence cycles and flags any element longer than takt as infeasible. **The analysis behind the 63% → 84% result.**
 
-### ⚙️ [OEE Analyzer](https://github.com/varunmysorevinay-pixel/oee-analyzer)
+### ⚙️ [OEE Analyzer](https://github.com/varunmysorevinay/oee-analyzer)
 Availability × Performance × Quality with full loss attribution in minutes, plus a downtime Pareto that identifies the vital few reasons driving 80% of lost time. Caps performance at 100% so bad cycle-time standards show up instead of quietly inflating OEE.
 
-### ⏱️ [Time Study Toolkit](https://github.com/varunmysorevinay-pixel/time-study-toolkit)
+### ⏱️ [Time Study Toolkit](https://github.com/varunmysorevinay/time-study-toolkit)
 Observed → normal → standard time with performance rating and PF&D allowances, MAD-based outlier screening, and a statistical sample-size check that tells you **which standards you have not observed enough cycles to trust.**
 
-### 📈 [Capacity Planning Model](https://github.com/varunmysorevinay-pixel/capacity-planning-model)
+### 📈 [Capacity Planning Model](https://github.com/varunmysorevinay/capacity-planning-model)
 Load vs. capacity by workcenter, constraint identification with sized options — and lead time via Kingman's VUT equation, showing how utilization destroys lead time long before it exhausts capacity.
 
 ---
